@@ -1,7 +1,7 @@
 # Spring University
 ## Summer 2016 Redevelopment with RED Academy 
 
-![Spring University Home Screen](http://imgur.com/a/vcn9d)
+![Spring University Home Screen](http://i.imgur.com/RV10fSq.png)
 
 As our final capstone project, we developed a new build for Spring University. The design had gone through a UX development process and comps were delivered to us. 
 In two weeks we built out the website, which included using custom plugins, post-types and custom fields. 
