@@ -1,3 +1,5 @@
-# RED Functionality Plugin
+# Spring Functionality Plugin
 
-A template for a WordPress functionality plugin for RED Academy students.
+This plugin allows us to create custom post types and taxonomies.
+It was used in this project to creat custom Events, Programs and Instructors.
+
